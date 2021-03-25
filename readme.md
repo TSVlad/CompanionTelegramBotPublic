@@ -1,8 +1,11 @@
-Пэт проект телеграм бот.
+Пэт проект телеграм бот, написанный на webhook.
+
 Технологии: Spring Boot + Web, Hibernate, PostgreSQL
 
 Телеграм бот доступен по имени @CompanionTSBot
+
 Скриншоты работы:
+
 ![img](images/1.jpg)
 ![img](images/2.jpg)
 ![img](images/3.jpg)
